@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/incidents": "pages/incidents.js",
+  "/incidents/create": "pages/incidents/create.js",
+  "/incidents/[id]": "pages/incidents/[id].js",
+  "/dashboard": "pages/dashboard.js",
+  "/bulk-upload": "pages/bulk-upload.js",
+  "/": "pages/index.js"
+}

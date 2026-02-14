@@ -1,0 +1,56 @@
+[
+  {
+    "id": "5de00b17-eab1-4a9b-a7ec-b85b2cd4e721",
+    "title": "Network outage",
+    "description": "Main office network is completely down",
+    "category": "IT",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T00:51:41.085Z"
+  },
+  {
+    "id": "b451266a-fed4-4746-b149-1311b06ee813",
+    "title": "Test Title",
+    "description": "Test Description",
+    "category": "IT",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T01:04:41.394Z"
+  },
+  {
+    "id": "8c8a4a4b-9463-4fbf-9912-64b4cce73844",
+    "title": "Oil spill near press",
+    "description": "Small oil spill observed near Press A",
+    "category": "SAFETY",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T01:06:48.635Z"
+  },
+  {
+    "id": "e112e815-dd1c-495a-99ba-1a3dbc372cc1",
+    "title": "Printer outage",
+    "description": "Shipping label printer is offline",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T01:06:48.635Z"
+  },
+  {
+    "id": "780357de-7643-4fba-b8f8-a0a71ad8b6af",
+    "title": "Loose guard rail",
+    "description": "Guard rail at line entrance is loose",
+    "category": "SAFETY",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T01:06:48.635Z"
+  },
+  {
+    "id": "db358ab4-7a67-45fd-a017-e21dc73cbc0e",
+    "title": "Inventory scanner delay",
+    "description": "Handheld scanner latency causing delays",
+    "category": "IT",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T01:06:48.635Z"
+  }
+]
